@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1732796474 source:e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\trabalho prático\projeto definitivo\gerenciamento\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"FilaPrio.h"
+
+1732797024 source:e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\trabalho prático\projeto definitivo\gerenciamento\filaprio.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"FilaPrio.h"
+	"Estruturas.h"
+
+1732797044 e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\trabalho prático\projeto definitivo\gerenciamento\filaprio.h
+
+1732796504 source:e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\trabalho prático\projeto definitivo\gerenciamento\estruturas.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"Estruturas.h"
+
+1732781820 e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\trabalho prático\projeto definitivo\gerenciamento\estruturas.h
+
