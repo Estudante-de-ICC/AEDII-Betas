@@ -1,0 +1,122 @@
+﻿100; 8; 6; 2; 1; 1 ; 2; 1 ; 2
+1;1;Sofia Oliveira;59;6549028681;1.95;47.7;"Febre, Palpitações";"Ibuprofeno";neurologista;0
+2;3;Camila Costa;97;2714619707;1.87;88.2;"Dificuldade para respirar, Dor de cabeça, Palpitações";"Omeprazol";Cardiologista;0
+3;5;Carlos Costa;16;2475933869;1.75;113.2;"Fadiga, Tontura, Febre";"Metformina, Ácido acetilsalicílico, Cloridrato de sertralina";Cardiologista;0
+4;4;Pedro Santos;1;7492421599;1.97;68.4;"Tontura, Dores musculares";"Ibuprofeno";Ortopedista;0
+5;2;Ana Silva;68;2016367522;1.74;115.4;"Dores musculares, Náusea, Palpitações, Dor abdominal, Tosse";"Metformina";Dermatologista;0
+6;1;João Ribeiro;110;4210599944;1.5;70.5;"Dor de cabeça, Dificuldade para respirar, Tosse, Dores musculares, Tontura";"Paracetamol";Neurologista;0
+7;5;Pedro Oliveira;76;3477421420;1.49;79.8;"Dores musculares, Dor de cabeça";"Amoxicilina";Dermatologista;0
+8;1;Fernanda Souza;104;4040806513;1.71;99.6;"Náusea";"Ácido acetilsalicílico";Neurologista;0
+9;5;Fernanda Martins;8;7382950011;1.66;56.7;"Tosse, Dificuldade para respirar, Fadiga, Dores musculares, Dor de cabeça";"Amoxicilina, Metformina, Paracetamol";Pediatra;0
+10;2;Lucas Ribeiro;93;1815899925;1.83;103.4;"Dor abdominal, Palpitações, Dores musculares, Febre";"Cloridrato de sertralina, Simeticona, Omeprazol";Ortopedista;0
+11;1;Fernanda Pereira;31;1143509921;1.6;115.2;"Dor abdominal, Dificuldade para respirar, Dor de cabeça";"Cloridrato de sertralina";Gastroenterologista;0
+12;1;Ana Silva;35;9039306394;1.42;96.4;"Tontura, Fadiga, Palpitações, Dor de cabeça, Dor abdominal";"Losartana";Dermatologista;0
+13;4;Pedro Costa;93;2365613009;1.54;117.2;Dor abdominal;"Paracetamol; Losartana";Dermatologista;0
+14;2;Lucas Costa;64;7037901943;1.57;49.9;"Dores musculares, Dor de cabeça";"Ácido acetilsalicílico, Paracetamol";Cardiologista;0
+15;4;João Ribeiro;46;1978774244;1.51;107.8;"Dores musculares, Palpitações";"Amoxicilina, Ácido acetilsalicílico, Paracetamol";Cardiologista;0
+16;5;Camila Pereira;94;8314483943;1.65;85.8;"Dificuldade para respirar, Dor de cabeça";"Ácido acetilsalicílico";Cardiologista;0
+17;1;Ana Silva;16;8190189067;1.79;106.3;"Dificuldade para respirar, Tosse";"Ibuprofeno";Cardiologista;0
+18;3;Sofia Souza;8;1477566562;1.91;61.5;"Dificuldade para respirar, Dor abdominal, Dor de cabeça, Tontura";"Ibuprofeno";Ortopedista;0
+19;5;Lucas Ribeiro;12;8154990640;1.6;48.9;"Dores musculares";"Ácido acetilsalicílico";Pediatra;0
+20;5;João Almeida;5;8502829092;1.58;103.9;"Palpitações, Fadiga, Náusea, Febre";Prednisona;Cardiologista;0
+21;2;Sofia Ribeiro;70;1173068810;1.94;64.5;Febre;"Ácido acetilsalicílico, Amoxicilina, Prednisona";Cardiologista;0
+22;4;Maria Oliveira;48;1312249133;1.44;90.6;"Dificuldade para respirar, Tosse";Omeprazol;Cardiologista;0
+23;5;Pedro Costa;15;6337950049;1.7;113.5;"Fadiga, Dor abdominal, Tontura, Tosse";Omeprazol;Ortopedista;0
+24;4;Carlos Costa;86;2639768284;1.83;63.9;"Dor abdominal, Dor de cabeça";"Metformina, Paracetamol";Cardiologista;0
+25;4;Camila Silva;63;4429369158;1.6;114.0;"Tosse";"Cloridrato de sertralina, Omeprazol";Dermatologista;0
+26;2;Sofia Oliveira;98;6344746495;1.96;88.0;"Dor abdominal, Dor de cabeça, Palpitações";Amoxicilina;Gastroenterologista;0
+27;2;Miguel Silva;116;4209778820;1.64;95.3;"Tosse, Dores musculares, Dificuldade para respirar";"Losartana, Simeticona";Gastroenterologista;0
+28;3;Ana Silva;31;7766410890;1.62;116.1;"Tontura, Náusea";"Omeprazol, Metformina, Ibuprofeno";Cardiologista;0
+29;5;Carlos Almeida;88;2394905081;1.63;115.3;"Dor abdominal, Tosse";Ácido acetilsalicílico;Ortopedista;0
+30;5;Sofia Costa;116;9255754123;1.9;115.5;"Fadiga, Dores musculares";"Metformina, Amoxicilina";Ortopedista;0
+31;4;Camila Oliveira;11;6306534967;1.9;70.4;"Febre";"Losartana, Prednisona";Pediatra;0
+32;3;Camila Santos;15;2277492939;1.79;109.2;"Tosse, Náusea, Dores musculares";"Omeprazol, Metformina";Pediatra;0
+33;4;Pedro Almeida;42;5481505649;1.86;83.1;"Dores musculares, Tosse";"Ibuprofeno, Ácido acetilsalicílico";Dermatologista;0
+34;4;Sofia Pereira;11;7511554139;1.97;107.9;"Dores musculares, Febre, Dificuldade para respirar, Tosse, Tontura";"Ibuprofeno, Omeprazol";Pediatra;0
+35;2;Maria Costa;48;2206576717;1.42;87.6;Tosse;"Losartana, Paracetamol";Dermatologista;0
+36;2;Fernanda Pereira;12;3392709585;1.89;85.9;"Fadiga, Febre, Tosse";Prednisona;Pediatra;0
+37;2;Fernanda Ribeiro;13;3129494650;1.95;111.4;"Náusea, Febre";"Metformina, Paracetamol, Ibuprofeno";Dermatologista;0
+38;4;Pedro Pereira;65;4635913455;1.9;116.6;Tontura;"Prednisona, Ibuprofeno";Ortopedista;0
+39;3;Fernanda Oliveira;73;2960453642;1.85;82.0;"Tosse, Fadiga, Dor abdominal, Náusea";"Cloridrato de sertralina, Simeticona";Gastroenterologista;0
+40;2;Camila Almeida;102;9920992909;1.75;97.4;"Palpitações, Dor abdominal";Omeprazol;Gastroenterologista;0
+41;4;Ana Costa;73;9080720428;1.93;103.4;Tontura;"Metformina, Amoxicilina, Ácido acetilsalicílico";Neurologista;0
+42;1;Pedro Oliveira;34;6141872429;1.85;97.5;Tontura;"Metformina, Simeticona, Cloridrato de sertralina";Gastroenterologista;0
+43;1;João Silva;77;4288688438;1.64;49.4;"Náusea, Tontura, Dor abdominal";"Losartana, Cloridrato de sertralina";Cardiologista;0
+44;3;Camila Martins;65;3824634807;1.48;77.1;Dor de cabeça;"Omeprazol, Ácido acetilsalicílico, Paracetamol";Cardiologista;0
+45;3;Lucas Ribeiro;73;9744751486;1.51;115.4;"Fadiga, Tontura";"Ácido acetilsalicílico, Amoxicilina";Dermatologista;0
+46;3;Lucas Silva;105;6421777931;1.51;110.7;"Fadiga";Cloridrato de sertralina;Gastroenterologista;0
+47;3;Sofia Oliveira Ramalho;10;4589397258;1.89;74.7;"Dores musculares, Dor abdominal, Fadiga, Tosse";"Prednisona, Paracetamol, Amoxicilina";Pediatra;0
+48;1;Miguel Ribeiro;81;5734109268;1.72;56.1;"Tosse, Fadiga, Dores musculares, Febre, Palpitações";Metformina;Neurologista;0
+49;1;Sofia Oliveira Almeida;12;8610312531;1.73;52.5;"Dores musculares, Tosse, Tontura, Náusea, Dor abdominal";"Losartana, Paracetamol";Pediatra;0
+50;2;Pedro Ribeiro;47;4036708410;1.9;68.4;"Dificuldade para respirar, Palpitações, Náusea, Tontura, Dor abdominal";Amoxicilina;Gastroenterologista;0
+51;4;Miguel Almeida;62;6129284625;1.59;52.4;"Fadiga, Dor de cabeça, Náusea";"Amoxicilina, Ácido acetilsalicílico";Cardiologista;0
+52;3;Maria Ferreira;61;7037896019;1.62;77.1;"Palpitações, Dores musculares, Dificuldade para respirar, Dor de cabeça";"Simeticona, Losartana";Cardiologista;0
+53;2;Pedro Souza;13;5312753196;1.65;58.4;"Tosse, Dor de cabeça, Tontura";Paracetamol;Pediatra;0
+54;1;Maria Ribeiro;14;3305770305;1.94;50.2;"Tosse, Febre";Ibuprofeno;Pediatra;0
+55;1;Sofia Santos;90;3076729332;1.66;85.5;"Náusea, Palpitações, Fadiga, Febre";Amoxicilina;Neurologista;0
+56;5;Maria Silva;91;1591381598;1.73;63.0;"Tontura";"Simeticona, Losartana";Dermatologista;0
+57;1;Ana Martins;115;1451996240;1.64;85.0;"Tontura, Palpitações, Tosse, Dor de cabeça";Losartana;Gastroenterologista;0
+58;2;Sofia Martins;34;9519333445;1.85;44.2;"Febre";"Metformina, Paracetamol, Cloridrato de sertralina";Gastroenterologista;0
+59;4;Maria Costa;81;7883899874;1.85;93.0;"Fadiga, Tosse";"Losartana, Ácido acetilsalicílico";Cardiologista;0
+60;5;Sofia Silva;33;2183423493;1.61;111.1;"Fadiga, Dor abdominal, Dores musculares";Amoxicilina;Dermatologista;0
+61;4;João Ferreira;45;2154402733;1.91;77.4;"Dores musculares";"Ibuprofeno, Ácido acetilsalicílico, Prednisona";Neurologista;0
+62;5;Carlos Ribeiro;79;7841102005;1.73;67.6;"Tontura, Palpitações, Náusea, Febre";"Losartana, Amoxicilina";Gastroenterologista;0
+63;3;Lucas Silva;61;6384576330;1.75;58.3;"Dor abdominal, Tontura, Febre, Dificuldade para respirar, Fadiga";Omeprazol;Dermatologista;0
+64;5;Lucas Pereira;8;8703881187;1.49;78.9;"Palpitações";"Amoxicilina, Cloridrato de sertralina";Gastroenterologista;0
+65;5;Pedro Silva;10;4514659650;1.57;96.2;"Dores musculares";"Simeticona, Prednisona, Metformina";Pediatra;0
+66;5;Pedro Ribeiro;33;7012632461;1.95;63.7;"Náusea, Fadiga, Tontura";Metformina;Neurologista;0
+67;2;Camila Silva;8;6180166091;1.82;82.8;"Dificuldade para respirar, Dor de cabeça, Palpitações, Dor abdominal";"Prednisona, Ibuprofeno, Amoxicilina";Pediatra;0
+68;2;Sofia Costa;63;4707167963;1.85;67.1;"Dificuldade para respirar, Náusea, Febre";"Simeticona, Prednisona";Gastroenterologista;0
+69;4;João Ribeiro;59;8358520929;2.0;41.0;"Febre";"Ibuprofeno, Losartana";Dermatologista;0
+70;5;João Ribeiro;111;9864712694;1.6;58.1;"Palpitações, Febre, Dificuldade para respirar, Fadiga, Dor de cabeça";Metformina;Gastroenterologista;0
+71;4;Pedro Santos;66;8976047083;1.95;106.5;"Tontura, Palpitações, Dores musculares, Febre, Dor abdominal";"Simeticona, Ibuprofeno";Ortopedista;0
+72;2;Maria Ferreira;114;4545132331;1.97;82.8;"Dor de cabeça, Dores musculares, Palpitações, Dificuldade para respirar, Dor abdominal";"Losartana, Ibuprofeno, Simeticona";Cardiologista;0
+73;4;Camila Pereira;118;4467835023;1.99;52.5;"Náusea";"Losartana, Paracetamol, Prednisona";Gastroenterologista;0
+74;4;Camila Oliveira;98;8765378473;1.54;105.7;"Náusea","Simeticona, Prednisona, Metformina";Gastroenterologista;0
+75;4;Maria Oliveira;59;3317477452;1.72;110.2;"Tosse, Náusea, Tontura, Febre";Paracetamol;Dermatologista;0
+76;4;Ana Silva;11;6029233036;1.55;45.2;"Tontura";"Simeticona, Losartana, Ibuprofeno";Pediatra;0
+77;4;João Almeida;9;4764608990;1.44;85.5;"Dificuldade para respirar, Dor abdominal, Náusea";Simeticona;Gastroenterologista;0
+78;1;Miguel Souza;113;5171702329;1.81;52.7;"Palpitações, Febre, Dor de cabeça, Tosse";"Ácido acetilsalicílico, Omeprazol";Cardiologista;0
+79;4;Fernanda Pereira;76;5249987535;1.92;99.1;"Palpitações";Ácido acetilsalicílico;Neurologista;0
+80;4;Ana Ferreira;88;3358943947;1.41;62.5;"Tontura, Fadiga";Amoxicilina;Dermatologista;0
+81;2;Sofia Ribeiro;13;2483458659;1.51;65.7;"Náusea, Dor abdominal, Dificuldade para respirar";Metformina;Dermatologista;0
+82;1;João Costa;28;8357203539;1.69;86.2;"Náusea, Febre, Fadiga, Dor de cabeça, Dificuldade para respirar";"Cloridrato de sertralina, Losartana, Ibuprofeno";Cardiologista;0
+83;3;Fernanda Ribeiro;11;3773974075;1.99;86.7;"Dificuldade para respirar, Náusea, Palpitações, Tontura";Prednisona;Pediatra;0
+84;4;Maria Ferreira;6;9287947709;1.47;82.4;"Palpitações, Dores musculares, Náusea, Tontura, Dificuldade para respirar";"Cloridrato de sertralina, Ácido acetilsalicílico, Paracetamol";Pediatra;0
+85;1;Lucas Souza;83;6234704506;1.42;84.4;"Tosse",Cloridrato de sertralina;Gastroenterologista;0
+86;5;João Ribeiro;71;9422237083;1.77;76.5;"Dor de cabeça, Palpitações, Dores musculares";"Losartana, Omeprazol";Gastroenterologista;0
+87;4;Lucas Ribeiro;2;7786059930;1.94;82.2;"Dores musculares, Dor de cabeça, Náusea, Tontura, Dor abdominal";"Paracetamol, Cloridrato de sertralina, Losartana";Ortopedista;0
+88;5;Camila Souza;82;7202748197;1.73;87.8;"Tontura, Dores musculares";Ibuprofeno;Ortopedista;0
+89;1;Camila Santos;52;7502332034;1.69;71.5;"Tosse, Dificuldade para respirar, Dor de cabeça";Losartana;Ortopedista;0
+90;4;Ana Costa;14;6267817784;1.42;119.8;"Fadiga, Tontura, Náusea";"Amoxicilina, Losartana, Cloridrato de sertralina";Pediatra;0
+91;5;Miguel Oliveira;108;1755740457;1.8;51.0;"Febre, Dor abdominal, Tontura, Palpitações, Tosse";"Ácido acetilsalicílico, Omeprazol";Dermatologista;0
+92;2;Maria Souza;58;5241496252;1.53;98.6;"Dor abdominal, Palpitações, Tontura, Dor de cabeça";Ibuprofeno;Gastroenterologista;0
+93;1;Camila Ribeiro;11;6741260221;1.72;83.5;"Febre, Tontura, Dores musculares, Fadiga, Tosse";Cloridrato de sertralina;Dermatologista;0
+94;3;Carlos Pereira;119;8520272575;1.93;114.2;"Febre, Náusea, Palpitações, Dificuldade para respirar";"Ibuprofeno, Ácido acetilsalicílico, Losartana";Gastroenterologista;0
+95;3;Pedro Martins;8;5119253329;1.56;67.9;"Dores musculares, Fadiga, Dor de cabeça, Náusea, Dor abdominal";Ibuprofeno;Ortopedista;0
+96;2;Carlos Santos;44;6167293833;1.54;60.9;"Dor de cabeça, Fadiga, Dores musculares, Dor abdominal";"Ácido acetilsalicílico, Cloridrato de sertralina";Neurologista;0
+97;5;Pedro Ferreira;27;7262992127;1.61;43.3;"Náusea, Fadiga, Tosse, Tontura";Losartana;Dermatologista;0
+98;2;Lucas Costa;6;5163113358;1.43;44.7;"Dor abdominal, Febre, Dor de cabeça, Dificuldade para respirar";"Losartana";Pediatra;0
+99;1;Carlos Ferreira;99;8821990739;1.49;46.8;"Dores musculares";"Ácido acetilsalicílico, Simeticona";Cardiologista;0
+100;2;Camila Ribeiro;29;2436027608;1.5;65.1;"Dor de cabeça, Palpitações, Febre, Dor abdominal, Dificuldade para respirar";Ibuprofeno;Dermatologista;0
+
+Salas
+103
+982
+314
+231
+714
+141
+513
+012
+
+profissionais
+1723; Chase Jones; Pediatra;
+1249; Egsy Lovegood; Pediatra;
+1329; Foreman Williams; Gastroenterologista;
+2943; Aurora Phillips;Dermatologista;
+1230; Gabriel Alves; Cardiologista;
+1084; Willian Fox; Ortopedista;
+0132; Stella Melano;Cardiologista;
+5702; Meg Monty;Neurologista;
+1507;Vannya Phoenix;Neurologista;
