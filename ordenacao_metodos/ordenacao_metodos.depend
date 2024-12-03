@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1733173694 source:e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao_metodos\ler_vetores.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	"ler_vetores.h"
+
+1733173602 e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao_metodos\ler_vetores.h
+
+1733084236 source:e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao_metodos\sort.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"ler_vetores.h"
+	"Sort.h"
+
+1733084954 e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao_metodos\sort.h
+	"ler_vetores.h"
+
+1733084236 source:e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao-beta2\ordenacao_metodos\sort.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"ler_vetores.h"
+	"Sort.h"
+
+1733173602 e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao-beta2\ordenacao_metodos\ler_vetores.h
+
+1733084954 e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao-beta2\ordenacao_metodos\sort.h
+	"ler_vetores.h"
+
+1733255740 source:e:\faculdade\trabalhos\algoritmos e estrutura de dados ii\algoritmos de ordenação\ordenacao-beta2\ordenacao_metodos\ler_vetores.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	"Sort.h"
+	"ler_vetores.h"
+
